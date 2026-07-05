@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.csproj": {}
+    "C:\\Users\\eylul\\Documents\\GitHub\\06-CodeFirstApi\\codefirstapiProject\\codefirstapiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.csproj": {
+    "C:\\Users\\eylul\\Documents\\GitHub\\06-CodeFirstApi\\codefirstapiProject\\codefirstapiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.csproj",
+        "projectUniqueName": "C:\\Users\\eylul\\Documents\\GitHub\\06-CodeFirstApi\\codefirstapiProject\\codefirstapiProject.csproj",
         "projectName": "codefirstapiProject",
-        "projectPath": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.csproj",
+        "projectPath": "C:\\Users\\eylul\\Documents\\GitHub\\06-CodeFirstApi\\codefirstapiProject\\codefirstapiProject.csproj",
         "packagesPath": "C:\\Users\\eylul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\obj\\",
+        "outputPath": "C:\\Users\\eylul\\Documents\\GitHub\\06-CodeFirstApi\\codefirstapiProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

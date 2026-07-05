@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uyKeL+bh3OQ=",
+  "dgSpecHash": "KBc9ESew5Fs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.csproj",
+  "projectFilePath": "C:\\Users\\eylul\\Documents\\GitHub\\06-CodeFirstApi\\codefirstapiProject\\codefirstapiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eylul\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\eylul\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
